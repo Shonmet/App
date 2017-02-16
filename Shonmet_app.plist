@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.shonmet.com/app/shonmet_v1.ipa</string>
+					<string>http://www.shonmet.com/app/shonmet_ios_v1.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>尚美优品-内部券</string>
+				<string>尚美-内部优惠券</string>
 			</dict>
 		</dict>
 	</array>
